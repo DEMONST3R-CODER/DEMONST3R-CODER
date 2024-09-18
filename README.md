@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>LUFFY-MD</h1>
 
- href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____LUFFY+MD_____;WHATSAPP+BOT;DEVELOPED+BY+シ︎𝓚𝓲𝓷𝓰👑 ༒︎𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙༒︎💀;REALESE+DATE+2%2F9%2F2024." alt="Typing SVG" /></a>
+ "https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____LUFFY+MD_____;WHATSAPP+BOT;DEVELOPED+BY+シ︎𝓚𝓲𝓷𝓰👑 ༒︎𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙༒︎💀;REALESE+DATE+2%2F9%2F2024." alt="Typing SVG" /></a>
 </p>
 
 <h1>WhatsApp bot made by シ︎𝓚𝓲𝓷𝓰👑 ༒︎𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙༒︎💀</h1>
