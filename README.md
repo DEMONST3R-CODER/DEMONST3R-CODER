@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>LUFFY-MD</h1>
 WhatsApp bot made by シ︎𝓚𝓲𝓷𝓰👑 ༒︎𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙༒︎💀
-<img>https://i.imgur.com/3C9Ww1G.jpeg</img>
+<a><img src='https://i.imgur.com/3C9Ww1G.jpeg'/><a>
+<a><img src='https://i.imgur.com/3C9Ww1G.jpeg'/><a>
