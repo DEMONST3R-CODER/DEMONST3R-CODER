@@ -11,6 +11,6 @@ DEMONST3R-CODER/DEMONST3R-CODER is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <h1>LUFFY-MD</h1>
-WhatsApp bot made by シ︎𝓚𝓲𝓷𝓰👑 ༒︎𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙༒︎💀
-<a><img src='https://i.imgur.com/3C9Ww1G.jpeg'/><a>
+
+<h1>WhatsApp bot made by シ︎𝓚𝓲𝓷𝓰👑 ༒︎𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙༒︎💀</h1>
 <a><img src='https://i.imgur.com/3C9Ww1G.jpeg'/><a>
