@@ -24,7 +24,7 @@ Support our social group [GROUP](https://chat.whatsapp.com/LPXf787B6f47pQJvVpMue
 For sponsorship or more information contaime on WhatsApp [WHATSAPP](https://wa.me/2349153596300)
 
 ### Pairing code 🔥
-***PAIRING CODE [SERVER 1](https://thugnificent.onrender.com)***
-***PAIRING CODE [SERVER 2](https://thug.onrender.com)***
+***PAIRING CODE [SERVER 1](https://luffy-sessions-8647.onrender.com)***
+***PAIRING CODE [SERVER 2](https://luffy-sessions-8647.onrender.com)***
 
 ### Special thanks goes to God almighty and friends and family who supported me all the way 🫶
